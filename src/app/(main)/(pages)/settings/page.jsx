@@ -28,7 +28,7 @@ const Settings = () => {
                         Add or update your information
                     </p>
                 </div>
-                <ProfilePicture userImage={ } onUpload={ } onDelete={() => { }}></ProfilePicture>
+                {/* <ProfilePicture userImage={ } onUpload={ } onDelete={() => { }}></ProfilePicture> */}
                 <ProfileForm />
             </div>
         </div>
